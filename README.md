@@ -1,4 +1,11 @@
 # 07/10/2023
-# Global-cOpepoD-functionaL-diversitY (GODLY)
+# Global-cOpepoD-functionaL-diversitY (GODLY) - Benedetti et al. (in prep.)
 
-The present R scripts were developed under my research activities for the H2020-funded AtlantECO and BIOceans5D projects. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862923. This output reflects only the author’s view, and the European Union cannot be held responsible for any use that may be made of the information contained therein.
+This repository contains R scripts developed during my postdoc at ETH Zürich, D-USYS, IBP, UP group.
+The present R scripts were developed to produce the results a study in preparation about the global contemporary and future patterns of marine copepod functional diversity how it relates to the functioning of the biological carbon pump.
+
+- Scripts labelled as 'RSCRIPTBATCH' are those that were run on a local cluster to perform those functions defined within the script in parallel using the 'parallel' R package (R Core Team, 2020) within a mclapply().
+- Scripts that were given a number correspond to those R scripts were I formated and mined the main datasets involved. They usually contain organized sequences of code where data are being read, examined, reformatted, analyzed and plotted. The number given to a script mainly corresponds to a temporal marker, and not necessarily a direct sequence from one numbered script to another.
+- "GODLY" just corresponds to name I gave to this project.
+- The end of the scripts' names usually indicate their main purposes. A more detailed list of the scripts' goals and content is usually given in the beginning of the numbered scripts.
+
