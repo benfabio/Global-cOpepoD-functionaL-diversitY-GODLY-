@@ -1,4 +1,4 @@
-# 07/10/2023
+# Last update: 24/01/2024
 # Global-cOpepoD-functionaL-diversitY (GODLY) - Benedetti et al. (in prep.)
 
 This repository contains R scripts developed during my postdoc at ETH Zürich, D-USYS, IBP, UP group.
